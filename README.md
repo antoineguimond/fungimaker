@@ -1,4 +1,4 @@
-# Fungimaker 0.5
+# Fungimaker 0.6
 
 Un outil créé à l’aide d’Houdini et sa composante Houdini Engine qui permet de facilement créer et itérer des formes de champignon à l’intérieur des moteurs Unity et Unreal Engine.
 
