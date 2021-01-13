@@ -10,7 +10,7 @@ Il est nécessaire de vérifier la [compatibilité](https://www.sidefx.com/chang
 
 ## Installation de Houdini Engine
 
-**Unreal Engine** 
+**Unreal Engine 4** 
 
 1. Trouver l'emplacement de l'extension :  *C:\Programmes\Side Effects Software\HoudiniXX.X.XXX\engine\unreal\Y.YY\HoudiniEngine* ;
 2. Copier le **dossier** HoudiniEngine à l'emplacement de votre installation de Unreal Engine : 
@@ -25,7 +25,7 @@ Il est nécessaire de vérifier la [compatibilité](https://www.sidefx.com/chang
 
 ## Installation de l'outil 
 
-**Unity et unreal engine**
+**Unity et Unreal Engine 4**
 
 Il suffit de cliquer-glisser l'objet dans le dossier du projet à l'intérieur du moteur, et d'ensuite le glisser dans la scène.   
 
